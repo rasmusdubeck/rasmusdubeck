@@ -20,7 +20,7 @@ I build data pipelines, reproducible data workflows, and machine learning/AI app
 | [RAG Knowledge Assistant](https://github.com/rasmusdubeck/rag-knowledge-assistant) | RAG, embeddings, vector search, LLM APIs                            |
 | **Bachelor's Thesis**                                                              | NLP, LLM evaluation, experimental methodology *(private — for now)* |
 | [Data Science Projects](https://github.com/rasmusdubeck/learning-data-science)     | Machine learning, statistics, data analysis                         |
-| [BikeBuddy – Database Project](https://github.com/rasmusdubeck/DIS-Project)        | Python, SQL, database design                                        |
+| [BikeBuddy – Database Project](https://github.com/rasmusdubeck/DIS-Project)        | SQL, Docker, database design                                        |
 | [Fake News Detection](https://github.com/ThomasDIKU/Fake-news-project-)            | NLP, text classification, machine learning                          |
 
 
