@@ -21,7 +21,6 @@ I build data pipelines, reproducible data workflows, and machine learning/AI app
 | **Bachelor's Thesis**                                                              | NLP, LLM evaluation, experimental methodology *(private — for now)* |
 | [BikeBuddy – Database Project](https://github.com/rasmusdubeck/DIS-Project)        | SQL, Docker, database design                                        |
 | [Fake News Detection](https://github.com/ThomasDIKU/Fake-news-project-)            | NLP, text classification, machine learning                          |
-| [Data Science Projects](https://github.com/rasmusdubeck/learning-data-science)     | Machine learning, statistics, data analysis                         |
 
 
 ### Background
